@@ -5,6 +5,8 @@ description: '"IPA" represented in standard International Phonetic Association (
 file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/c4a5936a405d8e5b3b5eb0361c266e7b_chp_ipa.jpg
 file_size: 27306
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

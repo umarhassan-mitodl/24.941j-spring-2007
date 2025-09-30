@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides information on course meeting times, prerequisites,
   course requirements, readings, and the schedule of lecturers, lecture topics, and
   subtopics.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

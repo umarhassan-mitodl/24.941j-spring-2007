@@ -35,6 +35,7 @@
     "website": "24-941j-the-lexicon-and-its-features-spring-2007"
   },
   "course_title": "The Lexicon and Its Features",
+  "hide_download": true,
   "course_description": "This course provides an overview of the distinctive features which distinguish sound categories of languages of the world. Theories which relate these categories to their acoustic and articulatory correlates, both universally and in particular languages, are covered. Models of word recognition by listeners, features, and phonological structure are also discussed. In addition, the course offers a variety of perspectives on these issues, drawn from Electrical Engineering, Linguistics and Cognitive Science.\n",
   "department_numbers": [
     "24",
@@ -48,6 +49,7 @@
     "content": "ec808fb0-8e04-a5e6-0d9c-148044879726",
     "website": "24-941j-the-lexicon-and-its-features-spring-2007"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Projects"

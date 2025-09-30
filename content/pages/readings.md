@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information about required readings for each weekly
   class section along with a list of recommended readings.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

@@ -5,6 +5,8 @@ description: Lecture notes with an introduction to the course. Topics include co
 file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/33588904d4e5fe44451b113ac9f82804_lec1ks_intro.pdf
 file_size: 432646
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: 'Reading assignment: Stevens, Kenneth N., and Samuel Jay Keyser. "Q
 file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/0306c07f6f69600ca7414644722577c3_stevens_keyser07.pdf
 file_size: 333520
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

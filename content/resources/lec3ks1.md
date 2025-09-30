@@ -4,6 +4,8 @@ description: Lecture notes on sonorant consonants, glides, liquids, and nasals.
 file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/3710b375a3d0c2c3b1d9a5a314fe66aa_lec3ks1.pdf
 file_size: 640242
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
