@@ -5,8 +5,6 @@ description: Lecture notes on features, contrasts, the Jakobson-SPE view, and th
 file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/740a25ff59fcaf777320e89b9f059652_lec7ds_contrast.pdf
 file_size: 702930
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

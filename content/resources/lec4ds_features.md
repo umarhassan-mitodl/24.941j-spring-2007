@@ -4,8 +4,6 @@ description: Lecture notes on learning phonology with distinctive features.
 file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/389f296dd3b631cd8641bfc624c08bd9_lec4ds_features.pdf
 file_size: 1346630
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

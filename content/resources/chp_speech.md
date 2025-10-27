@@ -4,8 +4,6 @@ description: ''
 file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/8d2d42dfba307d38790b4c340dc58dc7_chp_speech.jpg
 file_size: 53072
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -4,8 +4,6 @@ description: Lecture notes on contrasts and features in phonological theory.
 file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/2c5d645444ca72f66f43e82a9d4f70a2_lec7ef_contrast.pdf
 file_size: 338833
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
